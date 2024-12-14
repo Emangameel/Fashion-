@@ -1,0 +1,156 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.begin{
+    background-image: url(./images/fashion-image-woman-with-many-shopping-bags-stylish-pose-edgy-charming-around-her-were-many-shopping-bags-this-place-is-public-area_1057402-2653.avif);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.div1{
+    height: 60px;
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    background-color:rgb(247, 242, 242);
+}
+span{
+    width:60px;
+    height: 60px;
+    float: left;
+    margin-left:10px; 
+    font-size:40px;
+    font-weight: bold;
+    color: rgb(24, 17, 23);
+    line-height: 60px;
+}
+ul{
+    list-style-type: none;
+    float:right;
+}
+
+.li2 a{
+    color:rgb(115, 38, 111) ;
+}
+.li1{
+    display: inline-block;
+    margin-left:50px;
+}
+
+.li1 a {
+    text-decoration: none;
+    line-height: 60px;
+}
+.li4 a{
+    margin-right: 10px;
+}
+.headline{
+    color: rgb(255, 255, 255);
+    margin-left:600px;
+    width: 300px;
+    text-align: center;
+    margin-top:300px;
+}
+.hr{
+    height: 1px;
+    width: 250px;
+    background-color: white;
+    margin: auto;
+}
+.btn{
+    background-color: rgb(95, 74, 99);
+    border:rgb(238, 44, 180) ;
+    padding: 10px;
+    color: white;
+}
+.circle{
+    overflow: auto;
+    height: 100px;
+    width: 200px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+.c1{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(135, 94, 133) ;
+    float: left;
+    margin-left: 20px;
+
+}
+.c2{
+    margin-left: 60px;
+}
+.container{
+    margin: auto;
+    width: 80%;
+}
+.title{
+   text-align: center;
+}
+.square{
+    overflow: auto;
+}
+.s{
+    height: 250px;
+    width: 22%;
+    background-color: rgb(234, 172, 232) ;
+    float: left;
+    margin-left: 30px;
+}
+.img1{
+    background-image: url(./images/images\ \(1\).jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.img2{
+    background-image: url(./images/stock-photo-beautiful-fashionable-girl-colorful-clothes-sitting-armchair-white-yellow-circle.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.img3{
+    background-image: url(./images/images\ \(3\).jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.img4{
+    background-image: url(./images/images\ \(4\).jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.img5{
+    background-image: url(./images/images\ \(5\).jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+.img6{
+    background-image: url(./images/new.jpg!w700wp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+.img7{
+    background-image: url(./images/images\ \(7\).jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+.img8{
+    background-image: url(./images/images\ \(8\).jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+ 
+.info{
+    color: rgb(101, 52, 12);
+}
